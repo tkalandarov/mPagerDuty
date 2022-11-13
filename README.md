@@ -1,3 +1,6 @@
+[![Go Badge](https://img.shields.io/badge/-Go-blue?style=flat&logo=Go&logoColor=white)](https://go.dev/)
+[![Twitch Badge](https://img.shields.io/badge/-Internship%20Project-blueviolet?style=flat&logo=Twitch&logoColor=white)](https://www.twitch.tv/)
+
 # My PagerDuty Wrapper
 My PagerDuty wrapper (mPagerDuty) is an independent Go package that any other projects can leverage to create PagerDuty API requests using a specific authentication token
 
